@@ -1,2 +1,2 @@
 # Vignette
-SEM6 DL PROJECT - Solving Jigsaw puzzles
+Learning supervised representations solving jigsaws
